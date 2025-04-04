@@ -1,4 +1,4 @@
-[result_video.zip](https://github.com/user-attachments/files/19597022/result_video.zip)##### https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuu5rdKS-7wGMd2oq_KV1FVx_2VabwpCrJ8g&s
+##### https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuu5rdKS-7wGMd2oq_KV1FVx_2VabwpCrJ8g&s
 
 ``` bash
 from ultralytics import YOLO
@@ -111,10 +111,8 @@ for frame_idx, frame_path in frame_list:
 files.download('results.zip')  # ZIP 파일 다운로드
 print("모든 라벨링된 프레임이 results.zip으로 다운로드되었습니다.")
 ```
+![Uploading image.png…]()
 
-
-
-[Uploading result_video.zip…]()
 
 
 
