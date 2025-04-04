@@ -154,4 +154,5 @@ files.download('results.zip')  # ZIP 파일 다운로드
 print("모든 라벨링된 프레임이 results.zip으로 다운로드되었습니다.")
 
 ```
-[results.zip](https://github.com/user-attachments/files/19596837/results.zip)
+![result_frame_20](https://github.com/user-attachments/assets/4fc04268-dc3b-44ea-a136-201249e8845a)
+
