@@ -111,7 +111,8 @@ for frame_idx, frame_path in frame_list:
 files.download('results.zip')  # ZIP 파일 다운로드
 print("모든 라벨링된 프레임이 results.zip으로 다운로드되었습니다.")
 ```
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/80a54e3b-4d16-41d7-9198-ecb4cd9adbbb)
+
 
 
 
