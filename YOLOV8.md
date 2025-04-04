@@ -1,4 +1,4 @@
-##### [https://www.youtube.com/watch?v=1L8mQ6sty80&t=10s](https://www.domin.co.kr/news/photo/201605/1107650_243532_5939.jpg)
+##### (https://www.domin.co.kr/news/photo/201605/1107650_243532_5939.jpg)
 
 ``` bash
 # 1. 필요한 라이브러리 설치
